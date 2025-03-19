@@ -1,0 +1,683 @@
+
+Title: Sound On Sound | The World's Premier Music Recording Technology Magazine
+Content: The S.B.G-PRO is capable of operating in mono or stereo, supports balanced and unbalanced equipment, and also allows for CV-based control of external devices. Sonicware's LIVEN Ambient Ø has just received a free firmware update that introduces support for seven new microtonal tuning systems. The Echolocator has been created in collaboration with 112db.com, and offers a range of delay effects that benefit from in-depth hands-on control. Valve System VA645 has been designed to react to incoming in the same way as analogue hardware, and is said to deliver a range of tonal characters while avoiding harsh-sounding distortions.  Said to be the twisted counterpart of Tracktion's LOVE plug-in, Dawesome HATE is capable of generating everything from subtle warmth to “total sonic destruction”. M-Leveller analyses the incoming signal and applies gain changes to individual notes and phrases, and promises to ensure consistent levels with unmatched transparency. The latest addition to IK Multimedia’s TONEX family provides users of the hardware pedals with the ability to organise and make real-time edits to their Tone Models and presets. The third release from SRM Sounds captures a 15-piece timpani ensemble performing at Studio Richter Mahr, and includes some additional synth-based content courtesy of an original Minimoog.  Cubase 14.0.20 introduces some changes to the Pattern and Score Editors, additional Audio Export options and a new Audio Segment Detection feature capable of highlighting individual elements such as words, drum hits in audio regions.  Oeksound’s long‑awaited third plug‑in is a quietly radical alternative to equalisation. Malcolm Toft gives a fascinating insight into his career, from building his first mixing desk at age 17, being part of the team at the launch of the iconic Trident Studios, where he recorded Elton John, Queen and David Bowie, to founding Trident Audio Developments to manufacture his consoles. To mark the company’s 100th anniversary, Shure have teamed up with Black Lion Audio and Korneff Audio to reissue the infamous ‘secret weapon’ that powers many of Tchad Blake’s greatest recordings. In this episode, Eddie Bazil looks at ways of enhancing a variety of individual tracks and full mixes using plug-ins that are designed to achieve the retro warmth and cohesion of tapes and valves. Composer and Sound Designer Robert Aiki Aubrey Lowe (aka Lichens) talks to Caro C about his preferred sound modules and working methodologies. I was just watching an online tutorial by iZotope, and they discussed NS‑10s and Auratone cubes being used to focus on the midrange. Is this a sound I can achieve with EQ? Space Rider offers delay, reverb and chorus, but also takes the concept of ducking and expands it to full parameter modulation. Sign Up TO
+	SOS Newsletters Create an account        All contents copyright © SOS Publications Group and/or its licensors, 1985-2025. All rights reserved.
+	The contents of this article are subject to worldwide copyright protection and reproduction in whole or part, whether mechanical or electronic, is expressly forbidden without the prior written consent of the Publishers. Great care has been taken to ensure accuracy in the preparation of this article but neither Sound On Sound Limited nor the publishers can be held responsible for its contents. The views expressed are those of the contributors and not necessarily those of the publishers. Web site designed & maintained by PB Associates & SOS
+
+Title: Music Gear, Equipment, News, Tutorials & Reviews
+Content: 
+
+
+Will Simpson 
+
+published 18 March 25
+ 
+Azizam is from his new album, Play
+ 
+
+
+Daniel Griffiths 
+
+published 18 March 25
+ 
+The rapper claims that Inflo failed to repay loans that left her short of cash and unable to make her tax returns
+ 
+
+
+Will Simpson 
+
+published 17 March 25
+ 
+Guitarist also claims he knows all the words to Bat Out Of Hell
+ 
+
+
+Ben Rogerson 
+
+published 17 March 25
+ 
+Listen out for the guitar part that sounds like The Backstreet Boys, too…
+ 
+
+
+Daniel Griffiths 
+
+published 17 March 25
+ 
+Their Tool In The Sand festival was to have been a crowning glory. Instead their setlist sparked fan fury, social media fallout and now, a growing legal threat
+ 
+
+
+Will Simpson 
+
+published 17 March 25
+ 
+Houston, we have a problem…
+ 
+
+By
+
+Will Simpson 
+
+published 18 March 25
+ 
+Azizam is from his new album, Play
+ 
+
+By
+
+Daniel Griffiths 
+
+published 18 March 25
+ 
+The rapper claims that Inflo failed to repay loans that left her short of cash and unable to make her tax returns
+ 
+
+By
+
+Will Simpson 
+
+published 17 March 25
+ 
+Guitarist also claims he knows all the words to Bat Out Of Hell
+ 
+
+By
+
+Daniel Griffiths 
+
+published 17 March 25
+ 
+Their Tool In The Sand festival was to have been a crowning glory. Instead their setlist sparked fan fury, social media fallout and now, a growing legal threat
+ 
+
+By
+
+Will Simpson 
+
+published 17 March 25
+ 
+Houston, we have a problem…
+ 
+
+By
+
+Will Simpson 
+
+published 17 March 25
+ 
+"I’ve never been more liberated than [when I was] asked to play so wildly against type and gender," Blanchett says of her appearance in Todd Haynes' I'm Not There
+ 
+
+By
+
+Daniel Griffiths 
+
+published 17 March 25
+ 
+Smith’s anti-dynamic, pro-fans rant on “driven by greed” ticket pricing, has opened up Young’s heart of gold
+ 
+
+By
+
+Paul Elliott 
+
+published 17 March 25
+ 
+“It was designed to be uniquely a dance track"
+ 
+
+By
+
+Jim Ottewill 
+
+published 17 March 25
+ 
+Born out of grief, Thackray’s new album Weirdo is her most heartfelt concept yet. Here, she delves into the record’s creation and how the process of putting it together helped her reclaim her sense of self
+ 
+
+By
+
+Will Simpson 
+
+published 17 March 25
+ 
+He’s working with Alex Van Halen on the project, but as “more of a co-producer”
+ 
+
+By
+
+Daniel Griffiths 
+
+published 17 March 25
+ 
+Think that US-imposed Mexican and Chinese tariffs don’t affect you? Here's why your next gear purchase just got a whole lot more expensive
+ 
+
+By
+
+Matt Mullen 
+
+published 14 March 25
+ 
+The price of the Behringer Swing MIDI controller has risen from $99 to $169, making it more expensive than the Arturia KeyStep that it's based on
+ 
+
+By
+
+Daryl Robertson 
+
+published 14 March 25
+ 
+We've uncovered the very best offers on a range of music-making gear from the likes of Yamaha, Gibson, Truefire, PreSonus, Fender and more
+ 
+
+By
+
+Chris Corfield 
+
+last updated 13 March 25
+ 
+Store recording sessions, video files, and sample libraries with our expert pick of the best external hard drives for Mac and PC
+ 
+
+By
+
+Matt Mullen 
+
+published 13 March 25
+ 
+Like the 6176, Behringer's 676 packs a mic preamp and FET compressor based on classic UA gear into a rackmount unit. Unlike the 6176, it costs $469
+ 
+
+By
+
+Jon Musgrave 
+
+published 13 March 25
+ 
+If you like recording your ideas on the move, Zoom could have just the device you’re after
+ 
+
+By
+
+Matt Mullen 
+
+published 13 March 25
+ 
+An innovative take on distortion equipped with 29 additional effects, Hate promises to do "raw, destructive and crushing" things to your audio
+ 
+
+By
+
+Jonathan Horsley 
+
+published 13 March 25
+ 
+The app is free and sure to be an essential tool for players with a Tonex pedal on their 'board, streamlining workflow and allowing for real-time edits of Tone Models, presets and IRs
+ 
+
+By
+
+Bruce Aisher 
+
+published 12 March 25
+ 
+You can never have enough modulation sources for your modular, but is Bastl’s Neo Trinity a step (CV or LFO) too far?
+ 
+
+By
+
+Daniel Griffiths 
+
+published 12 March 25
+ 
+With Dylan interest at a new high, Thal shares her story of discovering the star and making his first ever recording
+ 
+
+By
+
+Si Truss 
+
+published 12 March 25
+ 
+Live 12.2 lands in public Beta, also bringing updates to Meld, Roar, new Max devices and more
+ 
+
+By
+
+Will Simpson 
+
+published 17 March 25
+ 
+There’s both a film and book to commemorate band’s 50 years
+ 
+
+By
+
+Daniel Griffiths 
+
+published 17 March 25
+ 
+Think that US-imposed Mexican and Chinese tariffs don’t affect you? Here's why your next gear purchase just got a whole lot more expensive
+ 
+
+By
+
+Jonathan Horsley 
+
+published 14 March 25
+ 
+Envy Of None's sophomore album, Stygian Waves, is the sound of Lifeson's post-Rush project stretching out with a sound you can really sink right into
+ 
+
+By
+
+Jonathan Horsley 
+
+published 14 March 25
+ 
+Inspired by the BK Butler Tube Driver, a favourite of Joe Satriani and Eric Johnson's, Venus has a heap of tone-shaping features, including tube bias control – and you can swap out the tube
+ 
+
+By
+
+Jonathan Horsley 
+
+published 14 March 25
+ 
+Three years in the making, this pairs a vintage-inspired silicon fuzz circuit with echo and promises gated skronk, wooly fuzz, “gauzy My Bloody Valentine textures” and much more
+ 
+
+By
+
+Jonathan Horsley 
+
+published 14 March 25
+ 
+Available with five outputs or nine, these pedalboard power supplies can supply current-hungry digital and multi-effects, have a switchable 9V/12V/18V options, and are very budget-friendly
+ 
+
+By
+
+Daryl Robertson 
+
+published 14 March 25
+ 
+We've uncovered the very best offers on a range of music-making gear from the likes of Yamaha, Gibson, Truefire, PreSonus, Fender and more
+ 
+
+By
+
+Jonathan Horsley 
+
+published 13 March 25
+ 
+Charvel stacks the specs up high on a $1,599 shred machine that comes fresh with a super-distressed finish, DiMarzio HSH firepower and a Floyd Rose 1000 Series vibrato
+ 
+
+By
+
+Jonathan Horsley 
+
+published 13 March 25
+ 
+The app is free and sure to be an essential tool for players with a Tonex pedal on their 'board, streamlining workflow and allowing for real-time edits of Tone Models, presets and IRs
+ 
+
+By
+
+Rob Laing 
+
+published 2 March 25
+ 
+We take a look at two different products that can help you get your frets gleaming and your guitar back to its best for smoother bends and clearer vibrato
+ 
+
+By
+
+Leigh Fuge 
+
+last updated 24 February 25
+ 
+Key techniques guitar players can learn from the Led Zeppelin legend
+ 
+
+By
+
+Roland Schmidt 
+
+published 18 February 25
+ 
+Chord hieroglyphics can take several forms. We unravel the mysteries of one of the most symbolic and common examples
+ 
+
+By
+
+Jonathan Horsley 
+
+last updated 20 January 25
+ 
+My pick of the best online guitar courses will get your playing up to speed from the comfort of your own home, whether you're a beginner, intermediate, or advanced player
+ 
+
+By
+
+Rob Laing 
+
+published 14 January 25
+ 
+A string change is the ideal opportunity to get your 'board back to its best
+ 
+
+By
+
+Advertorial feature 
+
+published 13 January 25
+ 
+ 
+ 
+ 
+
+By
+
+MusicRadar 
+
+published 3 January 25
+ 
+Inspiration for every skill level
+ 
+
+By
+
+MusicRadar 
+
+published 2 January 25
+ 
+Massively expand your musical vocabulary and songwriting options with these beautiful acoustic guitar chords
+ 
+
+By
+
+Leigh Fuge 
+
+published 27 December 24
+ 
+Master five classic songs with just a handful of chords
+ 
+
+By
+
+Jon Musgrave 
+
+published 5 March 25
+ 
+This free mono synth plugin is creative, chaotic and fun to use. It’s time to go West (Coast)
+ 
+
+By
+
+Rob Laing 
+
+published 2 March 25
+ 
+We take a look at two different products that can help you get your frets gleaming and your guitar back to its best for smoother bends and clearer vibrato
+ 
+
+By
+
+Andy Price 
+
+published 27 February 25
+ 
+It’s true, sometimes working relentlessly on perfecting a song or track that you’re just not feeling can do more harm than good
+ 
+
+By
+
+Jon Musgrave 
+
+published 26 February 25
+ 
+Putting together the elements you need to craft a beat that just won't let up
+ 
+
+By
+
+Leigh Fuge 
+
+last updated 24 February 25
+ 
+Key techniques guitar players can learn from the Led Zeppelin legend
+ 
+
+By
+
+Andy Jones 
+
+published 19 February 25
+ 
+In today's world of music production, pretty much everything you can dream of will have a virtual counterpart. Let's explore
+ 
+
+By
+
+Roland Schmidt 
+
+published 18 February 25
+ 
+Chord hieroglyphics can take several forms. We unravel the mysteries of one of the most symbolic and common examples
+ 
+
+By
+
+Andy Jones 
+
+published 14 February 25
+ 
+Forget flowers, chocolates or champagne – give your loved one a free vintage compressor plugin instead! Better still, just get it for yourself…
+ 
+
+By
+
+Andy Price 
+
+published 7 February 25
+ 
+It’s easy to get precious about the true meaning of our creative endeavours, but how much authority do songwriters really have to own the definitive reading of their work?
+ 
+
+By
+
+Andy Price 
+
+published 6 February 25
+ 
+It’s easy to carry on fiddling with our tracks, but as Richard D. James knows all too well, that urge to keep going can prove a problem
+ 
+
+By
+
+Andy Price 
+
+published 1 February 25
+ 
+Sometimes imposing rules can force us out of our creative comfort zones. It's a tactic David Bowie used to birth some of his most celebrated songs.
+ 
+
+By
+
+Roland Schmidt 
+
+published 30 January 25
+ 
+Building an extension to a chord doesn’t require planning permission, but it might require a degree of design. We add 9ths to our extension palette
+ 
+
+By
+
+Andy Jones 
+
+published 29 January 25
+ 
+Don't know where to begin with buying and using studio monitor speakers? Listen up
+ 
+
+By
+
+Roland Schmidt 
+
+published 27 January 25
+ 
+If your chord progressions sound a little clunky, try approaching your harmony in an inverse way.
+ 
+
+By
+
+James Grimshaw 
+
+published 25 January 25
+ 
+My guide to hooking up your audio interface to a laptop or computer, step-by-step
+ 
+
+By
+
+Roland Schmidt 
+
+published 24 January 25
+ 
+From bossanovas to Carole King and even James Bond villains, the major seventh can completely change your song’s mood.
+ 
+
+By
+
+James Grimshaw 
+
+published 23 January 25
+ 
+Learn how to hook up your MIDI keyboard to your audio interface - no matter how complex your setup
+ 
+
+By
+
+Andy Jones 
+
+published 22 January 25
+ 
+Don't let a brilliant song be swallowed up in a bad mix by following our guide to the central principles of the process
+ 
+
+By
+
+James Grimshaw 
+
+published 21 January 25
+ 
+My expert guide to hooking up a mobile music-making rig using an iPhone or iPad
+ 
+
+By
+
+Andy Jones 
+
+published 21 January 25
+ 
+Produce an authentic-sounding house track with a dose of acid in 10 easy steps
+ 
+
+By
+
+Jon Musgrave 
+
+published 13 March 25
+ 
+If you like recording your ideas on the move, Zoom could have just the device you’re after
+ 
+
+By
+
+Bruce Aisher 
+
+published 12 March 25
+ 
+You can never have enough modulation sources for your modular, but is Bastl’s Neo Trinity a step (CV or LFO) too far?
+ 
+
+By
+
+Connor Flys 
+
+published 11 March 25
+ 
+A 100-watt, 2x12, four-channel 'super amp' that weighs the same as a Deluxe Reverb?
+ 
+
+By
+
+Roland Schmidt 
+
+published 11 March 25
+ 
+Steppin’ Out with Cherry Audio’s post-punk beatbox that provides more than a few surprises
+ 
+
+By
+
+Quentin Lachapèle 
+
+published 10 March 25
+ 
+This technology-packed digital piano is the ultimate home learning companion for aspiring pianists - all backed by Yamaha’s renowned craftsmanship
+ 
+
+By
+
+Andy Jones 
+
+published 7 March 25
+ 
+This dynamic EQ will improve your tracks and entire mixes, and doesn’t cost much – what else do you want?
+ 
+
+By
+
+Jon Musgrave 
+
+published 6 March 25
+ 
+Zoom’s H1 Essential aims to be the most compact and affordable field recorder available
+ 
+
+By
+
+Ellie Rogers 
+
+published 5 March 25
+ 
+Can Cort's reputation for quality hold true at this budget-friendly price?
+ 
+
+By
+
+Bruce Aisher 
+
+published 4 March 25
+ 
+Sonic disruptor Bastl is back with another palm-sized dose of fun. We don our cape to try and weave some magic
+ 
+
+By
+
+Chris Gill 
+
+published 3 March 25
+ 
+The iconic British amp brand's new heads are not just compact, portable, high-powered and designed for the stage, they may well change how you think of solid-state amps
+ 
+MusicRadar is part of Future plc, an international media group and leading digital publisher. Visit our corporate site.
+ ©
+Future Publishing Limited Quay House, The Ambury,
+Bath
+BA1 1UA. All rights reserved. England and Wales company registration number 2008885. 
